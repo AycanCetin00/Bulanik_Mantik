@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RQ/I6q/WDhA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aycan\\source\\repos\\CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aycan\\.nuget\\packages\\winforms.datavisualization\\1.10.0\\winforms.datavisualization.1.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

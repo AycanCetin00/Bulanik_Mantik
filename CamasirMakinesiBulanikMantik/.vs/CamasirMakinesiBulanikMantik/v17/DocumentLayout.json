@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aycan\\source\\repos\\CamasirMakinesiBulanikMantik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE38BD71-8323-457E-9C83-CAFCE44A7478}|CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik.csproj|C:\\Users\\aycan\\source\\repos\\CamasirMakinesiBulanikMantik\\camasirmakinesibulanikmantik\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE38BD71-8323-457E-9C83-CAFCE44A7478}|CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik.csproj|solutionrelative:camasirmakinesibulanikmantik\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE38BD71-8323-457E-9C83-CAFCE44A7478}|CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik.csproj|c:\\users\\aycan\\source\\repos\\camasirmakinesibulanikmantik\\camasirmakinesibulanikmantik\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE38BD71-8323-457E-9C83-CAFCE44A7478}|CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik.csproj|solutionrelative:camasirmakinesibulanikmantik\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE38BD71-8323-457E-9C83-CAFCE44A7478}|CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik.csproj|c:\\users\\aycan\\source\\repos\\camasirmakinesibulanikmantik\\camasirmakinesibulanikmantik\\fuzzyinferencesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE38BD71-8323-457E-9C83-CAFCE44A7478}|CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik.csproj|solutionrelative:camasirmakinesibulanikmantik\\fuzzyinferencesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE38BD71-8323-457E-9C83-CAFCE44A7478}|CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik.csproj|c:\\users\\aycan\\source\\repos\\camasirmakinesibulanikmantik\\camasirmakinesibulanikmantik\\fuzzyset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE38BD71-8323-457E-9C83-CAFCE44A7478}|CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik.csproj|solutionrelative:camasirmakinesibulanikmantik\\fuzzyset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE38BD71-8323-457E-9C83-CAFCE44A7478}|CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik.csproj|c:\\users\\aycan\\source\\repos\\camasirmakinesibulanikmantik\\camasirmakinesibulanikmantik\\membershipfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE38BD71-8323-457E-9C83-CAFCE44A7478}|CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik.csproj|solutionrelative:camasirmakinesibulanikmantik\\membershipfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE38BD71-8323-457E-9C83-CAFCE44A7478}|CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik.csproj|c:\\users\\aycan\\source\\repos\\camasirmakinesibulanikmantik\\camasirmakinesibulanikmantik\\fuzzyrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE38BD71-8323-457E-9C83-CAFCE44A7478}|CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik.csproj|solutionrelative:camasirmakinesibulanikmantik\\fuzzyrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FuzzyInferenceSystem.cs",
+              "DocumentMoniker": "C:\\Users\\aycan\\source\\repos\\CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik\\FuzzyInferenceSystem.cs",
+              "RelativeDocumentMoniker": "CamasirMakinesiBulanikMantik\\FuzzyInferenceSystem.cs",
+              "ToolTip": "C:\\Users\\aycan\\source\\repos\\CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik\\FuzzyInferenceSystem.cs",
+              "RelativeToolTip": "CamasirMakinesiBulanikMantik\\FuzzyInferenceSystem.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAUwNUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:03:46.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FuzzyRule.cs",
+              "DocumentMoniker": "C:\\Users\\aycan\\source\\repos\\CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik\\FuzzyRule.cs",
+              "RelativeDocumentMoniker": "CamasirMakinesiBulanikMantik\\FuzzyRule.cs",
+              "ToolTip": "C:\\Users\\aycan\\source\\repos\\CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik\\FuzzyRule.cs",
+              "RelativeToolTip": "CamasirMakinesiBulanikMantik\\FuzzyRule.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwBoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:03:19.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FuzzySet.cs",
+              "DocumentMoniker": "C:\\Users\\aycan\\source\\repos\\CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik\\FuzzySet.cs",
+              "RelativeDocumentMoniker": "CamasirMakinesiBulanikMantik\\FuzzySet.cs",
+              "ToolTip": "C:\\Users\\aycan\\source\\repos\\CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik\\FuzzySet.cs",
+              "RelativeToolTip": "CamasirMakinesiBulanikMantik\\FuzzySet.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:02:29.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aycan\\source\\repos\\CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik\\Form1.cs",
+              "RelativeDocumentMoniker": "CamasirMakinesiBulanikMantik\\Form1.cs",
+              "ToolTip": "C:\\Users\\aycan\\source\\repos\\CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "CamasirMakinesiBulanikMantik\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:40:03.664Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MembershipFunction.cs",
+              "DocumentMoniker": "C:\\Users\\aycan\\source\\repos\\CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik\\MembershipFunction.cs",
+              "RelativeDocumentMoniker": "CamasirMakinesiBulanikMantik\\MembershipFunction.cs",
+              "ToolTip": "C:\\Users\\aycan\\source\\repos\\CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik\\MembershipFunction.cs",
+              "RelativeToolTip": "CamasirMakinesiBulanikMantik\\MembershipFunction.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:14:06.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aycan\\source\\repos\\CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik\\Form1.cs",
+              "RelativeDocumentMoniker": "CamasirMakinesiBulanikMantik\\Form1.cs",
+              "ToolTip": "C:\\Users\\aycan\\source\\repos\\CamasirMakinesiBulanikMantik\\CamasirMakinesiBulanikMantik\\Form1.cs",
+              "RelativeToolTip": "CamasirMakinesiBulanikMantik\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAjwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:53:08.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
